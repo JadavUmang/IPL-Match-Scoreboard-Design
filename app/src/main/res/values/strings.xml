@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ipl</string>
+    <string-array name="gt11">
+        <item name="Hardik Pandya (C)">Hardik Pandya (C)</item>
+        <item name="Shubman Gill">Shubman Gill</item>
+        <item name="David Miller">David Miller</item>
+        <item name="Abhinav Manohar">Abhinav Manohar</item>
+        <item name="Sai Sudharsan">Sai Sudharsan</item>
+        <item name="Wriddhiman Saha">Wriddhiman Saha</item>
+        <item name="Matthew Wade">Matthew Wade</item>
+        <item name="Rashid Khan">Rashid Khan</item>
+        <item name="Rahul Tewatia">Rahul Tewatia</item>
+        <item name="Vijay Shankar">Vijay Shankar</item>
+        <item name="Mohammed Shami">Mohammed Shami</item>
+        <item name="Alzarri Joseph">Alzarri Joseph</item>
+        <item name="Yash Dayal">Yash Dayal</item>
+        <item name="Pradeep Sangwan">Pradeep Sangwan</item>
+        <item name="Darshan Nalkande">Darshan Nalkande</item>
+        <item name="Jayant Yadav">Jayant Yadav</item>
+        <item name="R Sai Kishore">R Sai Kishore</item>
+        <item name="Noor Ahmad">Noor Ahmad</item>
+        <item name="Kane Williamson">Kane Williamson</item>
+        <item name="Odean Smith">Odean Smith</item>
+        <item name="KS Bharat">KS Bharat</item>
+        <item name="Shivam Mavi">Shivam Mavi</item>
+        <item name="Urvil Patel">Urvil Patel</item>
+        <item name="Joshua Little">Joshua Little</item>
+        <item name="Mohit Sharma">Mohit Sharma</item>
+    </string-array>
+
+    <string-array name="rr11">
+        <item name="Sanju Samson (c)">Sanju Samson (c)</item>
+        <item name="Jos Buttler">Jos Buttler</item>
+        <item name="Yashasvi Jaiswal">Yashasvi Jaiswal</item>
+        <item name="R. Ashwin">R. Ashwin</item>
+        <item name="Trent Boult">Trent Boult</item>
+        <item name="Shimron Hetmyer">Shimron Hetmyer</item>
+        <item name="Devdutt Padikkal">Devdutt Padikkal</item>
+        <item name="Riyan Parag">Riyan Parag</item>
+        <item name="KC Cariappa">KC Cariappa</item>
+        <item name="Sandeep Sharma">Sandeep Sharma</item>
+        <item name="Yuzvendra Chahal">Yuzvendra Chahal</item>
+        <item name="Navdeep Saini">Navdeep Saini</item>
+        <item name="Obed McCoy">Obed McCoy</item>
+        <item name="Kuldeep Sen">Kuldeep Sen</item>
+        <item name="Dhruv Jurel">Dhruv Jurel</item>
+        <item name="Kuldip Yadav">Kuldip Yadav</item>
+        <item name="Jason Holder">Jason Holder</item>
+        <item name="Donovan Ferreira">Donovan Ferreira</item>
+        <item name="Kunal Rathore">Kunal Rathore</item>
+        <item name="Adam Zampa">Adam Zampa</item>
+        <item name="KM Asif">KM Asif</item>
+        <item name="Murugan Ashwin">Murugan Ashwin</item>
+        <item name="Akash Vashisht">Akash Vashisht</item>
+        <item name="Abdul PA">Abdul PA</item>
+        <item name="Joe Root">Joe Root</item>
+    </string-array>
+</resources>
